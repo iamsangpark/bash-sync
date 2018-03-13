@@ -1,0 +1,8 @@
+{
+  "name": "bash-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iamsangpark/bash-sync",
+  "author": "Sang Park <sang.park@locationlabs.com>",
+  "license": "MIT"
+}
